@@ -1,16 +1,16 @@
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: Mehek Tulsyan                     # name
+  title: Data Scientist | Software Developer           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: Beijing, China # location
-  email: me@example.com    # email address
-  phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
+  location: Amherst, United States # location
+  email: tulsyanmehek@gmail.com    # email address
+  phone: +1 413 4099826 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  linkedin: https://www.linkedin.com/in/mehek-tulsyan-777152147/     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
   birthday:                # birthday
